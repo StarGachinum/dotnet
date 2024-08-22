@@ -1,0 +1,15 @@
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.exe
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.deps.json
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.runtimeconfig.json
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.AssemblyInfoInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.AssemblyInfo.cs
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\refint\YuraSharko.TaskPlanner.ConsoleRunner.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.genruntimeconfig.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\ref\YuraSharko.TaskPlanner.ConsoleRunner.dll
