@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\YuraSharko.TaskPlanner.Domain.Logic\YuraSharko.TaskPlanner.Domain.Logic.csproj" />
     <ProjectReference Include="..\YuraSharko.TaskPlanner.Domain.Models\YuraSharko.TaskPlanner.Domain.Models.csproj" />
+    <ProjectReference Include="..\YuraSharko.TestPlanner.DataAccess\YuraSharko.TaskPlanner.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

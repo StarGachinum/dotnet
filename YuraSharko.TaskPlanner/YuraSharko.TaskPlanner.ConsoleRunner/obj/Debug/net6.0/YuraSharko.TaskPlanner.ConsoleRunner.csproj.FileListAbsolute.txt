@@ -18,3 +18,8 @@ C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.csproj.CopyComplete
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.dll
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.DataAccess.Abstractions.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.DataAccess.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.DataAccess.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.DataAccess.Abstractions.pdb

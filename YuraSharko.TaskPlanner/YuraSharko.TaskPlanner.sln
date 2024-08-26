@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.ConsoleRunner", "YuraSharko.TaskPlanner.ConsoleRunner\YuraSharko.TaskPlanner.ConsoleRunner.csproj", "{8247EA36-8D63-4621-8B99-F58592BC4FD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YuraSharko.TaskPlanner.ConsoleRunner", "YuraSharko.TaskPlanner.ConsoleRunner\YuraSharko.TaskPlanner.ConsoleRunner.csproj", "{8247EA36-8D63-4621-8B99-F58592BC4FD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.Domain.Models", "YuraSharko.TaskPlanner.Domain.Models\YuraSharko.TaskPlanner.Domain.Models.csproj", "{897FD346-B909-43B8-B35A-F5E42B53F055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YuraSharko.TaskPlanner.Domain.Models", "YuraSharko.TaskPlanner.Domain.Models\YuraSharko.TaskPlanner.Domain.Models.csproj", "{897FD346-B909-43B8-B35A-F5E42B53F055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.Domain.Logic", "YuraSharko.TaskPlanner.Domain.Logic\YuraSharko.TaskPlanner.Domain.Logic.csproj", "{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YuraSharko.TaskPlanner.Domain.Logic", "YuraSharko.TaskPlanner.Domain.Logic\YuraSharko.TaskPlanner.Domain.Logic.csproj", "{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.DataAccess.Abstractions", "YuraSharko.TestPlanner.DataAccess.Abstractions\YuraSharko.TaskPlanner.DataAccess.Abstractions.csproj", "{31E40907-9710-40F3-A4BF-3B8D39ABF22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.DataAccess", "YuraSharko.TestPlanner.DataAccess\YuraSharko.TaskPlanner.DataAccess.csproj", "{F052733C-AD93-440F-A985-300392BB5872}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2BA15145-2709-494E-94D5-66AF10924A33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{50D07A55-3746-447F-A181-B627E6B94DEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0114C783-E32E-4A55-AC36-843E98EBE6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +37,24 @@ Global
 		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E40907-9710-40F3-A4BF-3B8D39ABF22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E40907-9710-40F3-A4BF-3B8D39ABF22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E40907-9710-40F3-A4BF-3B8D39ABF22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E40907-9710-40F3-A4BF-3B8D39ABF22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F052733C-AD93-440F-A985-300392BB5872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F052733C-AD93-440F-A985-300392BB5872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F052733C-AD93-440F-A985-300392BB5872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F052733C-AD93-440F-A985-300392BB5872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8247EA36-8D63-4621-8B99-F58592BC4FD2} = {0114C783-E32E-4A55-AC36-843E98EBE6C3}
+		{897FD346-B909-43B8-B35A-F5E42B53F055} = {2BA15145-2709-494E-94D5-66AF10924A33}
+		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66} = {2BA15145-2709-494E-94D5-66AF10924A33}
+		{31E40907-9710-40F3-A4BF-3B8D39ABF22B} = {50D07A55-3746-447F-A181-B627E6B94DEA}
+		{F052733C-AD93-440F-A985-300392BB5872} = {50D07A55-3746-447F-A181-B627E6B94DEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EA1EF24-1D69-45FF-A2EC-28646E0B4185}

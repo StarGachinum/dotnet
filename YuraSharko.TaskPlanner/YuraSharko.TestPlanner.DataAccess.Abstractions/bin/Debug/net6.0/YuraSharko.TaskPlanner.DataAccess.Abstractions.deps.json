@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "YuraSharko.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "YuraSharko.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "YuraSharko.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "YuraSharko.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "YuraSharko.TaskPlanner.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YuraSharko.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YuraSharko.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

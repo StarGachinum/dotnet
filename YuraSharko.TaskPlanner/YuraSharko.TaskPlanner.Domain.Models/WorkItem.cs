@@ -7,7 +7,7 @@ using YuraSharko.TaskPlanner.Domain.Models.Enums;
 
 namespace YuraSharko.TaskPlanner.Domain.Models
 {
-    public class WorkItem
+    public class WorkItem : ICloneable
     {
         public DateTime DueTime;
         public DateTime CreationDate;
@@ -16,10 +16,31 @@ namespace YuraSharko.TaskPlanner.Domain.Models
         public string Title;
         public string Description;
         public bool IsCompleted;
+        public Guid Id;
+
+        public object Clone()
+        {
+            WorkItem clone = new WorkItem();
+            try
+            {
+                clone.Title = (string)Title.Clone();
+                clone.DueTime = DueTime;
+                clone.Priority = Priority;
+            }
+            catch { }
+            try
+            {
+                clone.IsCompleted = IsCompleted;
+                clone.Description = Description;
+                clone.Complexity = Complexity;
+                clone.CreationDate = CreationDate;
+            }catch { }
+            return clone;
+        }
 
         public override string ToString()
         {
-            return String.Format($"{Title}: Due - {DueTime.ToString("dd.MM.yyyy")}; Priority - {Priority}");
+            return String.Format($"{Title}: Due - {DueTime.ToString("dd.MM.yyyy")}; Priority - {Priority}\n{Id}");
         }
     }
 }
