@@ -1,0 +1,15 @@
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.deps.json
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.csproj.CopyComplete
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\YuraSharko.TaskPlanner.Domain.Logic.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\YuraSharko.TaskPlanner.Domain.Logic.dll

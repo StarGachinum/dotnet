@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.ConsoleRunner", "YuraSharko.TaskPlanner.ConsoleRunner\YuraSharko.TaskPlanner.ConsoleRunner.csproj", "{8247EA36-8D63-4621-8B99-F58592BC4FD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.Domain.Models", "YuraSharko.TaskPlanner.Domain.Models\YuraSharko.TaskPlanner.Domain.Models.csproj", "{897FD346-B909-43B8-B35A-F5E42B53F055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuraSharko.TaskPlanner.Domain.Logic", "YuraSharko.TaskPlanner.Domain.Logic\YuraSharko.TaskPlanner.Domain.Logic.csproj", "{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8247EA36-8D63-4621-8B99-F58592BC4FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8247EA36-8D63-4621-8B99-F58592BC4FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8247EA36-8D63-4621-8B99-F58592BC4FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897FD346-B909-43B8-B35A-F5E42B53F055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897FD346-B909-43B8-B35A-F5E42B53F055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897FD346-B909-43B8-B35A-F5E42B53F055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897FD346-B909-43B8-B35A-F5E42B53F055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBAC0D2-CC86-40EC-BFE0-BC4ADE780A66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

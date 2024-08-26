@@ -13,3 +13,8 @@ C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.pdb
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.genruntimeconfig.cache
 C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\ref\YuraSharko.TaskPlanner.ConsoleRunner.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\obj\Debug\net6.0\YuraSharko.TaskPlanner.ConsoleRunner.csproj.CopyComplete
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.ConsoleRunner\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Logic.pdb

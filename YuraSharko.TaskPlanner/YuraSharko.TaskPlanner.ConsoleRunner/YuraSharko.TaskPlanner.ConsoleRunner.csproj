@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\YuraSharko.TaskPlanner.Domain.Logic\YuraSharko.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\YuraSharko.TaskPlanner.Domain.Models\YuraSharko.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>

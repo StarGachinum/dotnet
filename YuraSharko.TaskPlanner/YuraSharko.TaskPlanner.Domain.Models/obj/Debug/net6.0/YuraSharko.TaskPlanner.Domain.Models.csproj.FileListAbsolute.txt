@@ -1,0 +1,12 @@
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.deps.json
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\bin\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\YuraSharko.TaskPlanner.Domain.Models.dll
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\YuraSharko.TaskPlanner.Domain.Models.pdb
+C:\Study\dotnet\YuraSharko.TaskPlanner\YuraSharko.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\YuraSharko.TaskPlanner.Domain.Models.dll

@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "YuraSharko.TaskPlanner.ConsoleRunner/1.0.0": {
+        "dependencies": {
+          "YuraSharko.TaskPlanner.Domain.Logic": "1.0.0",
+          "YuraSharko.TaskPlanner.Domain.Models": "1.0.0"
+        },
         "runtime": {
           "YuraSharko.TaskPlanner.ConsoleRunner.dll": {}
+        }
+      },
+      "YuraSharko.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "YuraSharko.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "YuraSharko.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "YuraSharko.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "YuraSharko.TaskPlanner.Domain.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "YuraSharko.TaskPlanner.ConsoleRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YuraSharko.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YuraSharko.TaskPlanner.Domain.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
